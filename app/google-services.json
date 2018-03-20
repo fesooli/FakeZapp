@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "343945069407",
+    "firebase_url": "https://fakezapp-e07a6.firebaseio.com",
+    "project_id": "fakezapp-e07a6",
+    "storage_bucket": "fakezapp-e07a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343945069407:android:d8071439db5741be",
+        "android_client_info": {
+          "package_name": "br.com.oliveira.fellipe.fakezapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343945069407-07kh8rn9h98q5o4h9eroccujhk3vqf4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.oliveira.fellipe.fakezapp",
+            "certificate_hash": "bd2fa6e970c86df58923fe875459f78fd512294f"
+          }
+        },
+        {
+          "client_id": "343945069407-g8ulpq0c5humeldeot8qc352u8o1rkl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqY-f21_cSCr1YiZN_3JUVHIzRFE9B6AM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343945069407-g8ulpq0c5humeldeot8qc352u8o1rkl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
